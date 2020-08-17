@@ -10,6 +10,7 @@ Requirements - <br>
                 
 <h2> How to use ?</h2>
 <br>
+<p> pip install pyfiglet </p> <br>
 <p> cd Binod-Detector/ </p> <br>
 <p> cd BinodDetector/ </p> <br>
 <p> python BinodDetector.py </p> <br>
