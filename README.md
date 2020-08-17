@@ -19,3 +19,5 @@ Use - ' sudo chmod 755 BinodDetector.py '    ---  if above does not work
 
 <br>
 <p> This Tool will check if word "Binod" is present or not in all txt files in your current directory </p>
+
+<img src="Screenshot 2020-08-17 02:40:53.png" alt="Screeshot">
