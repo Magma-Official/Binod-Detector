@@ -1,0 +1,2 @@
+# Binod-Detector
+Magma Official
